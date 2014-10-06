@@ -4,7 +4,9 @@ Viikkoharjoitus 3: Cloud Storage
 [Cloud Storage](https://cloud.google.com/storage/) on Googlen tarjoama "pilvitiedostovarasto".
 Sitä voi käyttää muun muassa [Cloud Storage Clientin](https://cloud.google.com/appengine/docs/python/googlecloudstorageclient/) avulla.
 
-Cloud storage client pitää itse [ladata](https://cloud.google.com/appengine/docs/python/googlecloudstorageclient/download) ja lisätä projektiin mukaan. Tähän projektiin se on jo lisätty kansioon `cloudstorage`.
+Cloud Storage Clientin käyttöön voi tutustua vaikkapa [tämän esimerkin](https://cloud.google.com/appengine/docs/python/googlecloudstorageclient/getstarted) avulla.
+
+Cloud Storage Client pitää itse [ladata](https://cloud.google.com/appengine/docs/python/googlecloudstorageclient/download) ja lisätä projektiin mukaan. Tähän projektiin se on jo lisätty kansioon `cloudstorage`.
 
 ## Tehtävä: toteuta Cloud Storage -tallennus
 1. Kloonaa itsellesi tämä git-repositorio. Se sisältää App Engine web-sovelluksen, jossa voi lisätä tiedostoja Cloud Storageen. Vain itse Cloud Storage -toteutus puuttuu.

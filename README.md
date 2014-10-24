@@ -13,3 +13,4 @@ Cloud Storage Client pitää itse [ladata](https://cloud.google.com/appengine/do
 2. Toteuta tallennus Cloud Storageen.
 3. Salli kaikkien lukea tallentamiasi tiedostoja asettamalla sopiva [pääsynhallinta-asetus](https://cloud.google.com/storage/docs/accesscontrol) tallentaessasi. Tällöin tiedostojen pitäisi avautua vaikkapa nettiselaimella.
 
+* Halutessasi voit kokeilla myös [Images-palvelua](https://cloud.google.com/appengine/docs/python/images/) tekemällä tallennettavalle kuvatiedostolle jonkun hauskan muunnoksen ennen tallennusta. Siis siinä tapauksessa, että tallennettava tiedosto on tyyppiä kuva.
